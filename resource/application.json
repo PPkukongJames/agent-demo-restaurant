@@ -1,0 +1,10 @@
+{
+    "environment":"local",  
+    "host":"0.0.0.0",
+    "port":5000,
+    "applicatio_name":"demo-agentic",
+    "timezone":"Asia/Bangkok",
+    "timeout":1800,
+    "expired":1800,
+    "start_check_expire":1830
+}
